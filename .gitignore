@@ -1,0 +1,24 @@
+#Java Files#
+*.class
+
+#Package#
+*.jar
+*.war
+*.ear
+
+#Gradle#
+.gradle
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+#Build Files and Folders#
+/build/
+/bin/
+/classes/
+/target/
+
+#Eclipse Files and Folders#
+.settings
+.project
+.classpath
